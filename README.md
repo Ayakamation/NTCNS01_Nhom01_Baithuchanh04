@@ -58,5 +58,3 @@ File trong repository
 Buoi04_Baithuchanh4.pptx: File PowerPoint bài thực hành.
 Buoi 4 N.M.Trung.pdf: Tài liệu hướng dẫn (22 trang).
 README.md: Tài liệu này.
-
-T
